@@ -11,8 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
-static/assets
-static/email/test-emails
+backend/static/assets
+backend/static/email/test-emails
 
 # Editor directories and files
 .vscode/*
